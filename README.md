@@ -1,4 +1,4 @@
-# Linear_regression_for_1d_feature
+# Linear_regression
 Implementation of linear regression from scratch using gradient descent
 
 # Dependency
